@@ -1,16 +1,21 @@
-## Hi there 👋
+### ¡Hola, soy Yeimer Torres! 👋
 
-<!--
-**yeimertorres30-blip/yeimertorres30-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_1=0&customColor_2=1&height=180&section=header&text=Software%20Developer&fontSize=35&fontColor=fff)](https://github.com/yeimertorres30-blip)
 
-Here are some ideas to get you started:
+### 💻 Sobre mí
+* 🚀 Desarrollador de Software enfocado en la creación de soluciones web y de automatización.
+* 🛠️ Tecnologías principales: **Python, JavaScript, Node.js, Java, MySQL, n8n**.
+* 📍 Ubicado en Cúcuta, Colombia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,java,html,css,nodejs,express,mysql,git,github,vscode,linux" />
+</p>
+
+---
+
+### 📫 Contacto
+* 📧 Correo: [tu-correo@example.com](mailto:tu-correo@example.com)
+* 🔗 LinkedIn: [Tu LinkedIn](https://linkedin.com)

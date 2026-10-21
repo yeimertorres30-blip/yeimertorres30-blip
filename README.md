@@ -8,8 +8,8 @@
 - 💻 **Software developer**
 - 🌐 **Web developer**
 - 📱 **Mobile developer**
-- ✉️ **Email** -> tu_correo@gmail.com
-- 📄 **My CV** -> [Ver CV](https://github.com/yeimertorres30-blip)
+- ✉️ **Email** -> yeimertorres30@gmail.com
+- 📄 **My CV** -> [Ver CV]([https://github.com/yeimertorres30-blip](https://yeimertorres30-blip.github.io/Portafolio/))
 
 ---
 

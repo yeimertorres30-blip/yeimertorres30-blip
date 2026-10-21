@@ -1,6 +1,7 @@
 # Hello, I'm Yeimer Torres 👋
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=YEIMER%20TORRES&fontSize=38&fontColor=ffffff)
+![Header Banner](<img width="851" height="213" alt="image" src="https://github.com/user-attachments/assets/237b3b68-3443-4c33-8f20-c40dd35bcb64" />
+)
 
 ## about me
 

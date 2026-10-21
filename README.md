@@ -9,7 +9,7 @@
 - 🌐 **Web developer**
 - 📱 **Mobile developer**
 - ✉️ **Email** -> yeimertorres30@gmail.com
-- 📄 **My CV** -> [Ver CV]([https://github.com/yeimertorres30-blip](https://yeimertorres30-blip.github.io/Portafolio/))
+- 📄 **My CV** -> [Ver CV](https://yeimertorres30-blip.github.io/Portafolio/)
 
 ---
 

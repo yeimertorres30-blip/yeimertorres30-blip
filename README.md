@@ -1,6 +1,7 @@
 # Hello, I'm Yeimer Torres 👋
 
-![Header Banner](<img width="846" height="215" alt="image" src="https://github.com/user-attachments/assets/76bf160f-3435-46fb-b797-75c200298fad" />)
+![Header Banner](<img width="851" height="213" alt="image" src="https://github.com/user-attachments/assets/59f955a7-df1c-4ef1-8e86-01e7132ebd93" />
+)
 
 ## about me
 

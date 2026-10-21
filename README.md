@@ -33,7 +33,6 @@ A collection of my recent work and training projects
         Juego interactivo de ruleta estilo casino desarrollado en HTML5, CSS3 y JavaScript puro. Cuenta con animaciones físicas en Canvas, efectos de sonido e interfaz adaptativa.
       </p>
     </td>
-
     <!-- Proyecto 2 -->
     <td width="33%" valign="top" align="center">
       <br />
@@ -47,7 +46,6 @@ A collection of my recent work and training projects
         Diseño e implementación de base de datos hospitalaria en MySQL. Incluye modelado relacional, diagramas ER, inserción de datos sintéticos y consultas relacionales complejas.
       </p>
     </td>
-
     <!-- Proyecto 3 -->
     <td width="33%" valign="top" align="center">
       <br />

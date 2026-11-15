@@ -12,6 +12,22 @@
 - 📄 **My CV** -> [Ver CV](https://yeimertorres30-blip.github.io/Portafolio/)
 
 ---
+### 🛠️ Technologies and Tools
+<p>
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <!-- Backend & Bases de Datos -->
+  <img src="https://img.shields.io/badge/Bases_de_Datos-412991?style=for-the-badge&logo=databricks&logoColor=white" alt="Backend" />
+</p>
+---
 
 ## Projects
 

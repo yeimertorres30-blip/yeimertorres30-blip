@@ -90,8 +90,8 @@ A collection of my recent work and training projects
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/yeimertorres30-blip">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yeimertorres30-blip&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yeimertorres30-blip&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/yeimertorres30-blip">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeimertorres30-blip&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeimertorres30-blip&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>

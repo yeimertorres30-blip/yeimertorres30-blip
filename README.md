@@ -14,8 +14,11 @@
 ---
 ### 🛠️ Technologies and Tools
 <p>
+  <p>
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <!-- HTML5 -->
@@ -26,6 +29,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <!-- Backend & Bases de Datos -->
   <img src="https://img.shields.io/badge/Bases_de_Datos-412991?style=for-the-badge&logo=databricks&logoColor=white" alt="Backend" />
+  <!-- Metodología Scrum -->
+  <img src="https://img.shields.io/badge/Metodología_Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Metodología Scrum" />
+  <!-- Buen uso de la IA -->
+  <img src="https://img.shields.io/badge/Buen_Uso_de_la_IA-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Buen uso de la IA" />
 </p>
 ---
 
